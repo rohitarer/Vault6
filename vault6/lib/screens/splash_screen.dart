@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:vault6/screens/home_screen.dart';
 import 'package:vault6/services/cleanup_service.dart'; // 👈 Import the cleanup function
 import 'package:firebase_core/firebase_core.dart';
-import 'package:supabase_flutter/supabase_flutter.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
